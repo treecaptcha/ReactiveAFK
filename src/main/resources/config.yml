@@ -1,0 +1,8 @@
+# the time after which to warn the player
+afk-warn-time: 5
+
+# the time after which the player is able to be kicked
+afk-kick-time: 10
+
+# the maximum (inclusive) tps at which players can be kicked
+max-tps: 18

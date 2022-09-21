@@ -1,0 +1,7 @@
+name: ReactAFK
+version: '${project.version}'
+main: ml.treecaptcha.reactafk.Reactafk
+api-version: 1.19
+authors: [ treecaptcha ]
+description: TPS Based Anti-AFK
+website: https://github.com/treecaptcha
